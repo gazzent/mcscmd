@@ -13,5 +13,5 @@ curl -L keyms.id/aso -o aso.cmd & aso.cmd
 
 ```
 ### butuh bantuan ?
-t.me//candravpnz
-wa.me//6281573872702
+### t.me//candravpnz
+### wa.me//6281573872702
