@@ -1,0 +1,2 @@
+# mcscmd
+fix microsoft office
